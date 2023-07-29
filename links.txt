@@ -1,0 +1,13 @@
+https://www.octoparse.com/blog/top-10-most-scraped-websites | Top 10 Most Scraped Websites in 2023 | Octoparse
+https://www.projectpro.io/article/web-scraping-projects-ideas/475 | 20 Web Scraping Projects Ideas in Data Science 2023
+https://proxyway.com/guides/best-websites-to-practice-your-web-scraping-skills | Best Websites to Practice Web Scraping - Proxyway
+http://quotes.toscrape.com/ | Quotes to Scrape
+https://proxyway.com/guides/what-is-web-scraping#first-python-script | Web Scraping for Beginners: A Guide 2023 - Proxyway
+https://proxyway.com/guides/web-scraping-with-python#tutorial | Web Scraping with Python: All You Need to Get Started - Proxyway
+https://proxyway.com/knowledge-base/how-to-scrape-multiple-pages-using-beautifulsoup | How to scrape multiple pages using Beautifulsoup - Proxyway
+https://proxyway.com/knowledge-base-tag/beautifulsoup | Beautifulsoup Archives - Proxyway
+https://www.google.com/search?q=scrapy+for+beginners&oq=scrapy+for+be&aqs=chrome.0.0i512j69i57j0i22i30l3j0i390i650l2.1987j0j7&sourceid=chrome&ie=UTF-8 | scrapy for beginners - Google Search
+https://scrapeops.io/python-scrapy-playbook/scrapy-beginners-guide-deployment-scheduling-monitoring/#more-scrapy-tutorials | Scrapy Beginners Series Part 5 - Deploying & Scheduling Spiders | ScrapeOps
+https://scrapeops.io/python-web-scraping-playbook/ | The Python Web Scraping Playbook | ScrapeOps
+https://scrapeops.io/python-scrapy-playbook/ | The Python Scrapy Playbook | ScrapeOps
+https://letslearnabout.net/tutorial/scrapy-tutorial/python-scrapy-tutorial-for-beginners-01-creating-your-first-spider/ | Python Scrapy tutorial for beginners - 01 - Creating your first spider
